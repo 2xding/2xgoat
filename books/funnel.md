@@ -1,8 +1,8 @@
 # Faceless Book Account: Starter Kit
 
-## 1. Account name (placeholder: `@1percentpages`)
+## 1. Account name (placeholder: `@readswiththeo`)
 Pick one, then check that it's free on TikTok, Instagram and as a domain:
-- `@1percentpages`: "1% better" (Atomic Habits) + books
+- `@readswiththeo`: "1% better" (Atomic Habits) + books
 - `@quietcompound`: compounding, calm, a bit premium
 - `@readrichbroke`: relatable for students
 - `@pagesthatpay`: money-book angle
@@ -37,7 +37,7 @@ No affiliate links inside the template. Keep those in emails and your link-in-bi
 **Button:** Send me the tracker
 
 **Consent line (required by CASL, Canada's anti-spam law; keep it under the button):**
-> By signing up you'll get the tracker plus my weekly book & habit emails from [Your name / 1percentpages]. Unsubscribe anytime.
+> By signing up you'll get the tracker plus my weekly book & habit emails from Theo (@readswiththeo). Unsubscribe anytime.
 
 **Kit setup:** Landing page → Form → Automation: "Subscribes to form" → send Email 1 immediately → Emails 2–5 on the delays below.
 
