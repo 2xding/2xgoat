@@ -1,0 +1,87 @@
+{
+  "handle": "@1percentpages",
+  "posts": [
+    {
+      "id": "procrastination-3-books",
+      "format": "list",
+      "style": "dark",
+      "caption": "3 books that actually fixed my procrastination. Free habit tracker in bio. #booktok #procrastination #selfimprovement",
+      "slides": [
+        {"title": "3 books that actually fix procrastination", "body": "(not motivation. systems.)"},
+        {"kicker": "Book 1", "title": "Eat That Frog", "body": "Brian Tracy\n\nDo your hardest, most important task first thing. Everything after it feels easy."},
+        {"kicker": "Book 2", "title": "Atomic Habits", "body": "James Clear\n\nThe two-minute rule: shrink the habit until it takes 2 minutes. \"Study\" becomes \"open the notes.\" Starting is the hard part."},
+        {"kicker": "Book 3", "title": "The 5 Second Rule", "body": "Mel Robbins\n\nWhen you hesitate, count 5-4-3-2-1 and move before your brain talks you out of it."},
+        {"title": "Try one tomorrow morning.", "body": "Free habit + reading tracker in my bio."}
+      ]
+    },
+    {
+      "id": "money-before-20",
+      "format": "list",
+      "style": "green",
+      "caption": "Money books I wish I read before 20. Which one did you read first? #moneytok #booktok #personalfinance",
+      "slides": [
+        {"title": "4 money books to read before you turn 20"},
+        {"kicker": "1", "title": "The Psychology of Money", "body": "Morgan Housel\n\nGetting rich and staying rich are different skills. Behaviour beats intelligence."},
+        {"kicker": "2", "title": "I Will Teach You to Be Rich", "body": "Ramit Sethi\n\nAutomate saving and investing so it happens without willpower. Spend guilt-free on what you love, cut the rest."},
+        {"kicker": "3", "title": "Rich Dad Poor Dad", "body": "Robert Kiyosaki\n\nAssets put money in your pocket. Liabilities take it out. Know which one you're buying."},
+        {"kicker": "4", "title": "The Millionaire Next Door", "body": "Thomas Stanley & William Danko\n\nMany millionaires look ordinary. Looking rich and being rich are often opposites."},
+        {"title": "Start with #1.", "body": "Free reading tracker in my bio."}
+      ]
+    },
+    {
+      "id": "buffett-compounding",
+      "format": "one-lesson",
+      "style": "paper",
+      "caption": "The most important lesson in The Psychology of Money. #booktok #investing #compounding",
+      "slides": [
+        {"title": "The lesson from The Psychology of Money that changed how I think about time"},
+        {"title": "Warren Buffett is one of the richest people alive.", "body": "But according to Morgan Housel, the vast majority of his wealth came after his 65th birthday."},
+        {"title": "His secret wasn't just skill.", "body": "It was time. He started investing as a kid and never stopped."},
+        {"title": "Compounding rewards patience, not genius.", "body": "Small amounts, left alone for decades, beat big amounts started late."},
+        {"title": "So the best time to start is now.", "body": "Even $10. Even at 18."},
+        {"title": "Read The Psychology of Money.", "body": "Free reading tracker in my bio."}
+      ]
+    },
+    {
+      "id": "habit-stacking",
+      "format": "one-lesson",
+      "style": "dark",
+      "caption": "The easiest habit trick from Atomic Habits. #atomichabits #habits #booktok",
+      "slides": [
+        {"title": "The one sentence from Atomic Habits that makes new habits stick"},
+        {"title": "\"After I [current habit], I will [new habit].\"", "body": "James Clear calls it habit stacking."},
+        {"title": "Why it works", "body": "Your existing habits are already automatic. Attach the new one and it borrows the cue."},
+        {"title": "Examples", "body": "After I pour my coffee, I read 5 pages.\n\nAfter I sit at my desk, I write my top 3 tasks.\n\nAfter I brush my teeth, I stretch for 2 minutes."},
+        {"title": "Pick one. Write it down tonight.", "body": "Free habit tracker in my bio."}
+      ]
+    },
+    {
+      "id": "stopped-doing",
+      "format": "story",
+      "style": "paper",
+      "caption": "Things I stopped doing after reading these books. #selfimprovement #booktok #glowup",
+      "slides": [
+        {"title": "Things I stopped doing after reading self-improvement books"},
+        {"kicker": "Stopped", "title": "Waiting to feel motivated", "body": "The 5 Second Rule: action comes first, motivation follows."},
+        {"kicker": "Stopped", "title": "Relying on willpower", "body": "Atomic Habits: design your environment. Phone in another room beats \"trying harder.\""},
+        {"kicker": "Stopped", "title": "Buying things to look rich", "body": "The Psychology of Money: nobody is as impressed with your stuff as you are."},
+        {"kicker": "Stopped", "title": "Studying while multitasking", "body": "Deep Work: focused, distraction-free blocks produce more in less time."},
+        {"title": "Which one do you need to stop?", "body": "Free habit tracker in my bio."}
+      ]
+    },
+    {
+      "id": "overrated-underrated",
+      "format": "story",
+      "style": "green",
+      "caption": "Overrated vs underrated self-improvement books. Fight me in the comments. #booktok #hottake",
+      "slides": [
+        {"title": "Overrated vs underrated self-improvement books (my honest take)"},
+        {"kicker": "Overrated", "title": "Rich Dad Poor Dad", "body": "The asset vs liability idea is great. A lot of the rest is vague on the actual \"how.\""},
+        {"kicker": "Underrated", "title": "The Millionaire Next Door", "body": "Old, but the data-driven point still hits: wealth is usually quiet."},
+        {"kicker": "Overrated", "title": "Reading 50 books a year", "body": "Applying one idea beats skimming fifty."},
+        {"kicker": "Underrated", "title": "Deep Work", "body": "The most useful book for students nobody recommends."},
+        {"title": "Agree or disagree?", "body": "Free reading tracker in my bio."}
+      ]
+    }
+  ]
+}
