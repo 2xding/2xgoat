@@ -16,16 +16,17 @@ You post short videos about the app on your own account, or on a new one. They p
 
 | # | Program | What the app is | Pay | Volume | Notes | Apply |
 |---|---|---|---|---|---|---|
-| 1 | **Knowunity** | Study / homework app | 🟡 Paid per video, no followers needed. "Top creators $5k+/mo" is their own claim | ❓ | Europe-focused. Check whether US/English creators are accepted. The application takes ~2 min | [knowunity.com/creators](https://knowunity.com/creators) |
-| 2 | **Mimo** | Learn-to-code app | ✅ $50/video, plus $1 per 1k views after 100k (within the first 14 days). Viral bonus up to $2,500 | Up to 5/week once invited | A new TikTok account is fine | [jobs.mimo.org](https://jobs.mimo.org/o/ugc-creator-freelance) |
-| 3 | **Kiwi AI** | AI app | ✅ €20 base per qualifying post, up to €140 with view/comment/install bonuses | 1 post/day | Any follower count. Includes 1:1 coaching | [creators.kiwi.app](https://creators.kiwi.app/en/) |
-| 4 | **Solvely.ai** | AI homework solver | ❓ Not public | ❓ | US role. Posts on TikTok, Instagram and Shorts | [LinkedIn listing](https://www.linkedin.com/jobs/view/ugc-creator-at-solvely-ai-4382244195) |
-| 5 | **"AI Education App UGC Creator"** (unnamed company) | AI education app | ❓ | ❓ | Ages 18–26. Find out the company name before sending personal details | [Mandy listing](https://www.mandy.com/aa/job/3117838/ai-education-app-ugc-creator/5485968/) |
-| 6 | **Larven AI** | AI app | ❓ "Paid per video" | ❓ | Found in search, not verified | [larven.ai/ugc-affiliate](https://larven.ai/ugc-affiliate) |
+| 1 | **Turbo AI** (Turboship) | AI note-taking / study app, 5M+ users | 🟡 "$20+ per video plus performance bonuses". "Top creators up to $20k/month" is their claim. Early creators got $5/video (TechCrunch) | 1/day | You make **new** TikTok and Instagram accounts just for Turbo. Aimed at college students. You work with the founders' marketing team | [turbocreators.com](https://turbocreators.com/) |
+| 2 | **Knowunity** | Study / homework app | 🟡 Paid per video, no followers needed. "Top creators $5k+/mo" is their own claim | ❓ | Europe-focused. Check whether US/English creators are accepted. The application takes ~2 min | [knowunity.com/creators](https://knowunity.com/creators) |
+| 3 | **Mimo** | Learn-to-code app | ✅ $50/video, plus $1 per 1k views after 100k (within the first 14 days). Viral bonus up to $2,500 | Up to 5/week once invited | A new TikTok account is fine | [jobs.mimo.org](https://jobs.mimo.org/o/ugc-creator-freelance) |
+| 4 | **Kiwi AI** | AI app | ✅ €20 base per qualifying post, up to €140 with view/comment/install bonuses | 1 post/day | Any follower count. Includes 1:1 coaching | [creators.kiwi.app](https://creators.kiwi.app/en/) |
+| 5 | **Solvely.ai** | AI homework solver | ❓ Not public | ❓ | US role. Posts on TikTok, Instagram and Shorts | [LinkedIn listing](https://www.linkedin.com/jobs/view/ugc-creator-at-solvely-ai-4382244195) |
+| 6 | **"AI Education App UGC Creator"** (unnamed company) | AI education app | ❓ | ❓ | Ages 18–26. Find out the company name before sending personal details | [Mandy listing](https://www.mandy.com/aa/job/3117838/ai-education-app-ugc-creator/5485968/) |
+| 7 | **Larven AI** | AI app | ❓ "Paid per video" | ❓ | Found in search, not verified | [larven.ai/ugc-affiliate](https://larven.ai/ugc-affiliate) |
 
 **Also watch for "Canvas UGC" roles.** You run a dedicated account themed around the app and post a lot. Typical pay is **$20–40 per post plus $3–5 per 1k views**. Some pay as little as $6/post plus $4 per 1k views. Cal AI grew to 250+ creators this way at a $2–3 CPM (cost per 1,000 views). Search "canvas UGC" and "app UGC creator" on LinkedIn, Indeed and r/UGCcreators.
 
-**Watch for exclusivity.** Solvely and Knowunity are competing homework apps. Read the contracts before you do both.
+**Watch for exclusivity.** Turbo, Solvely and Knowunity are competing study apps. Read the contracts before you do both.
 
 ---
 
@@ -33,7 +34,7 @@ You post short videos about the app on your own account, or on a new one. They p
 
 | # | Program | Pay | Notes | Link |
 |---|---|---|---|---|
-| 7 | **Whop Content Rewards** | 🟡 Most campaigns pay $1–5 per 1k views, with on-camera UGC at the top end. The platform average is about $1.25 | Each campaign has a budget. Once it runs out, your views stop earning. Payouts are capped per post. Use it for paid practice while you wait on Tier 1 | [whop.com](https://docs.whop.com/memberships-and-access/third-party-apps/content-rewards) |
+| 8 | **Whop Content Rewards** | 🟡 Most campaigns pay $1–5 per 1k views, with on-camera UGC at the top end. The platform average is about $1.25 | Each campaign has a budget. Once it runs out, your views stop earning. Payouts are capped per post. Use it for paid practice while you wait on Tier 1 | [whop.com](https://docs.whop.com/memberships-and-access/third-party-apps/content-rewards) |
 
 ---
 
@@ -42,12 +43,12 @@ You film videos that brands run as ads. You don't need followers, but you **do**
 
 | # | Platform | Pay to creator | Notes | Link |
 |---|---|---|---|---|
-| 8 | **SideShift** | ❓ Varies by job | Aimed at students: UGC, ambassador and campus jobs | [sideshift.app/creators](https://sideshift.app/creators) |
-| 9 | **JoinBrands** | 🟡 ~$25–60/video | Beginner-friendly, lots of volume | [joinbrands.com](https://joinbrands.com) |
-| 10 | **Billo** | 🟡 Brands pay $75–300, you get a share of that | Standard briefs, paid twice a month | [billo.app](https://billo.app) |
-| 11 | **Twirl** | 🟡 $90–300+/project | Consumer and app brands | [usetwirl.com/for-creators](https://www.usetwirl.com/for-creators) |
-| 12 | **Insense** | 🟡 Varies (brands pay ~$150–300 including fees) | More established brands | [insense.pro](https://insense.pro) |
-| 13 | **Influee** | ❓ | UGC marketplace | [influee.co/for-creators](https://influee.co/for-creators) |
+| 9 | **SideShift** | ❓ Varies by job | Aimed at students: UGC, ambassador and campus jobs | [sideshift.app/creators](https://sideshift.app/creators) |
+| 10 | **JoinBrands** | 🟡 ~$25–60/video | Beginner-friendly, lots of volume | [joinbrands.com](https://joinbrands.com) |
+| 11 | **Billo** | 🟡 Brands pay $75–300, you get a share of that | Standard briefs, paid twice a month | [billo.app](https://billo.app) |
+| 12 | **Twirl** | 🟡 $90–300+/project | Consumer and app brands | [usetwirl.com/for-creators](https://www.usetwirl.com/for-creators) |
+| 13 | **Insense** | 🟡 Varies (brands pay ~$150–300 including fees) | More established brands | [insense.pro](https://insense.pro) |
+| 14 | **Influee** | ❓ | UGC marketplace | [influee.co/for-creators](https://influee.co/for-creators) |
 
 Job threads: **r/UGCcreators** and **r/CreatorEconomy**.
 
